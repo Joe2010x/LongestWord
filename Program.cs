@@ -3,9 +3,7 @@
 class MainClass {
 
   public static string LongestWord(string sen) {
-  
     return GetLongestWord(RemoveSigns(sen));
-
   }
 
   public static string GetLongestWord(string sen) {
