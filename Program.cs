@@ -31,8 +31,7 @@ class MainClass {
 
 
   static void Main() {  
-    // keep this function call here
-    Console.WriteLine(LongestWord("I love dogs"));
+    Console.WriteLine(LongestWord("I love dogs! Test"));
     Console.ReadLine();
   } 
 
