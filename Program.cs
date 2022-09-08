@@ -29,10 +29,8 @@ class MainClass {
     return result;
   }
 
-
   static void Main() {  
     Console.WriteLine(LongestWord("I love dogs! Test"));
     Console.ReadLine();
   } 
-
 }
