@@ -30,7 +30,7 @@ class MainClass {
   }
 
   static void Main() {  
-    Console.WriteLine(LongestWord("I love dogs! Test"));
+    Console.WriteLine(LongestWord("I love dogs! Test! very good!"));
     Console.ReadLine();
   } 
 }
