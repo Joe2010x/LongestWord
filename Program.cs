@@ -26,6 +26,7 @@ class MainClass {
         result += sen[i];
       }
     }
+    
     return result;
   }
 
